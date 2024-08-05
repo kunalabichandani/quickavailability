@@ -1,6 +1,6 @@
 # Privacy Policy for Gmail Availability Add-on
 
-Last updated: [Current Date]
+Last updated: 08.05.24
 
 ## Introduction
 
